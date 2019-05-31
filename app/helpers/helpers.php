@@ -2,7 +2,7 @@
 
     function url() {
         $url = explode('/', $_SERVER['REQUEST_URI']);
-        $path = $url[1]; // Change here
+        $path = $url[3]; // Change here
         $path = ($path == "") ? "/" : "/".$path;
         return $path;
     }

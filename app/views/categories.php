@@ -81,8 +81,8 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xl-5 col-lg-6 text-white">
-						<h2>Video Gallery</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec malesuada lorem maximus mauris scelerisque, at rutrum nulla dictum.</p>
+						<h2>Categories</h2>
+						<!--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec malesuada lorem maximus mauris scelerisque, at rutrum nulla dictum.</p>-->
 					</div>
 				</div>
 			</div>
@@ -103,8 +103,8 @@
 									<div class="cata new">racing</div>
 								</div>
 								<div class="rgi-content">
-									<h5>Suspendisse ut justo tem por, rutrum</h5>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit amet, consectetur elit. </p>
+									<h5>Metro Last Light Redux</h5>
+									<p>Under the ruins of a post-apocalyptic Moscow, in the underground tunnels, the survivors of humanity are besieged by deadly threats from the outside ... and the inside.</p>
 									<a href="#" class="comment">3 Comments</a>
 									<div class="rgi-extra">
 										<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
@@ -119,9 +119,9 @@
 									<div class="cata racing">racing</div>
 								</div>
 								<div class="rgi-content">
-									<h5>Susce pulvinar metus nulla, vel  facilisis sem </h5>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit amet, consectetur elit. </p>
-									<a href="#" class="comment">3 Comments</a>
+								<h5>Beyond Two Souls</h5>
+								<p>A unique psychological thriller of action that features the performances of Hollywood stars Ellen PAGE and Willem DAFOE. </p>
+									<a href="#" class="comment">12 Comments</a>
 									<div class="rgi-extra">
 										<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
 										<div class="rgi-heart"><img src="public/pictures/icons/heart.png" alt=""></div>
@@ -135,9 +135,9 @@
 									<div class="cata adventure">Adventure</div>
 								</div>
 								<div class="rgi-content">
-									<h5>Susce pulvinar metus nulla, vel  facilisis sem </h5>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit amet, consectetur elit. </p>
-									<a href="#" class="comment">3 Comments</a>
+								<h5>World War Z</h5>
+								<p>World War Z is an exciting cooperative (four player) cooperative shooting game in the third person, with massive hordes of zombies devouring their living prey without mercy. </p>
+									<a href="#" class="comment">23 Comments</a>
 									<div class="rgi-extra">
 										<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
 										<div class="rgi-heart"><img src="public/pictures/icons/heart.png" alt=""></div>
@@ -151,9 +151,9 @@
 									<div class="cata new">racing</div>
 								</div>
 								<div class="rgi-content">
-									<h5>Suspendisse ut justo tem por, rutrum</h5>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit amet, consectetur elit. </p>
-									<a href="#" class="comment">3 Comments</a>
+									<h5>World of Warcraft</h5>
+									<p>WoW , literally in Spanish World of Warcraft ) is a massively multiplayer online role-playing video game developed by Blizzard Entertainment . It is the fourth released game established in the fantasy universe of Warcraft , which was first introduced by Warcraft: Orcs & Humans in 1994.</p>
+									<a href="#" class="comment">789 Comments</a>
 									<div class="rgi-extra">
 										<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
 										<div class="rgi-heart"><img src="public/pictures/icons/heart.png" alt=""></div>
@@ -167,9 +167,9 @@
 									<div class="cata racing">racing</div>
 								</div>
 								<div class="rgi-content">
-									<h5>Susce pulvinar metus nulla, vel  facilisis sem </h5>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit amet, consectetur elit. </p>
-									<a href="#" class="comment">3 Comments</a>
+									<h5>Overwatch Halloween</h5>
+									<p>Over the next three weeks, we're going to celebrate the most sinister time of the year with a spooky Overwatch: Scary Halloween event. </p>
+									<a href="#" class="comment">1225 Comments</a>
 									<div class="rgi-extra">
 										<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
 										<div class="rgi-heart"><img src="public/pictures/icons/heart.png" alt=""></div>
@@ -183,9 +183,9 @@
 									<div class="cata adventure">Adventure</div>
 								</div>
 								<div class="rgi-content">
-									<h5>Susce pulvinar metus nulla, vel  facilisis sem </h5>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit amet, consectetur elit. </p>
-									<a href="#" class="comment">3 Comments</a>
+									<h5>Grand Theft Auto V </h5>
+									<p>New car available here. </p>
+									<a href="#" class="comment">745 Comments</a>
 									<div class="rgi-extra">
 										<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
 										<div class="rgi-heart"><img src="public/pictures/icons/heart.png" alt=""></div>
@@ -199,9 +199,9 @@
 									<div class="cata new">racing</div>
 								</div>
 								<div class="rgi-content">
-									<h5>Suspendisse ut justo tem por, rutrum</h5>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit amet, consectetur elit. </p>
-									<a href="#" class="comment">3 Comments</a>
+									<h5>PUBG</h5>
+									<p>Patch # 29 is now available and comes with the 2nd rebalanced Vikendi, new options in the Custom Games and a new Tactical Map Marker system to communicate with your Duo or Squad partners. In the following video you can see the new features that have been incorporated.</p>
+									<a href="#" class="comment">478 Comments</a>
 									<div class="rgi-extra">
 										<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
 										<div class="rgi-heart"><img src="public/pictures/icons/heart.png" alt=""></div>
@@ -215,9 +215,9 @@
 									<div class="cata racing">racing</div>
 								</div>
 								<div class="rgi-content">
-									<h5>Susce pulvinar metus nulla, vel  facilisis sem </h5>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit amet, consectetur elit. </p>
-									<a href="#" class="comment">3 Comments</a>
+									<h5>Anthem</h5>
+									<p>This is only the beginning of Anthem. The world will continue to evolve and present new challenges as your arsenal of halberds grows and you unleash your power.</p>
+									<a href="#" class="comment">325 Comments</a>
 									<div class="rgi-extra">
 										<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
 										<div class="rgi-heart"><img src="public/pictures/icons/heart.png" alt=""></div>
@@ -248,25 +248,25 @@
 							<div class="lb-item">
 								<div class="lb-thumb set-bg" data-setbg="public/pictures/latest-blog/1.jpg"></div>
 								<div class="lb-content">
-									<div class="lb-date">June 21, 2018</div>
-									<p>Ipsum dolor sit amet, consectetur adipisc ing consecips</p>
-									<a href="#" class="lb-author">By Admin</a>
+									<div class="lb-date">May 21, 2019</div>
+									<p>Patch notes #29</p>
+									<a href="#" class="lb-author">PUBG CORPORATION</a>
 								</div>
 							</div>
 							<div class="lb-item">
 								<div class="lb-thumb set-bg" data-setbg="public/pictures/latest-blog/2.jpg"></div>
 								<div class="lb-content">
-									<div class="lb-date">June 21, 2018</div>
-									<p>Ipsum dolor sit amet, consectetur adipisc ing consecips</p>
-									<a href="#" class="lb-author">By Admin</a>
+									<div class="lb-date">May 21, 2019</div>
+									<p>We are happy to announce today that the public test server (PTS) will be back on May 21!</p>
+									<a href="#" class="lb-author">PUBG CORPORATION</a>
 								</div>
 							</div>
 							<div class="lb-item">
 								<div class="lb-thumb set-bg" data-setbg="public/pictures/latest-blog/3.jpg"></div>
 								<div class="lb-content">
-									<div class="lb-date">June 21, 2018</div>
-									<p>Ipsum dolor sit amet, consectetur adipisc ing consecips</p>
-									<a href="#" class="lb-author">By Admin</a>
+									<div class="lb-date">April 4, 2019</div>
+									<p>Varok Colmillosauro is aware that, in order to build a future for the Horde, he must contact whoever led him in the past.</p>
+									<a href="#" class="lb-author">PUBG CORPORATION</a>
 								</div>
 							</div>
 						</div>
@@ -278,22 +278,22 @@
 							<div class="tc-item">
 								<div class="tc-thumb set-bg" data-setbg="public/pictures/authors/1.jpg"></div>
 								<div class="tc-content">
-									<p><a href="#">James Smith</a> <span>on</span> Lorem consec ipsum dolor sit amet, co</p>
-									<div class="tc-date">June 21, 2018</div>
+									<p><a href="#">James Smith</a> <span>on</span> I want to give my opinion about..</p>
+									<div class="tc-date">May 21, 2019</div>
 								</div>
 							</div>
 							<div class="tc-item">
 								<div class="tc-thumb set-bg" data-setbg="public/pictures/authors/2.jpg"></div>
 								<div class="tc-content">
-									<p><a href="#">Michael James</a> <span>on</span>Cras sit amet sapien aliquam</p>
-									<div class="tc-date">June 21, 2018</div>
+									<p><a href="#">Michael James</a> <span>on</span>I had problems with my XBOX....</p>
+									<div class="tc-date">March 8, 2019</div>
 								</div>
 							</div>
 							<div class="tc-item">
 								<div class="tc-thumb set-bg" data-setbg="public/pictures/authors/3.jpg"></div>
 								<div class="tc-content">
-									<p><a href="#">Justin More</a> <span>on</span> Lorem ipsum dolor consecsit amet, co</p>
-									<div class="tc-date">June 21, 2018</div>
+									<p><a href="#">Justin More</a> <span>on</span> Fortnite is the best battle royale...</p>
+									<div class="tc-date">January 25, 2019</div>
 								</div>
 							</div>
 						</div>
@@ -303,8 +303,8 @@
 						<div class="feature-item set-bg" data-setbg="public/pictures/features/1.jpg">
 							<span class="cata new">new</span>
 							<div class="fi-content text-white">
-								<h5><a href="#">Suspendisse ut justo tem por, rutrum</a></h5>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+								<h5><a href="#">Fortnite</a></h5>
+								<p>Season Pass 9!...</p>
 								<a href="#" class="fi-comment">3 Comments</a>
 							</div>
 						</div>
@@ -317,7 +317,7 @@
 							</div>
 							<div class="review-text">
 								<h5>Assasin’’s Creed</h5>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame.</p>
+								<p>t would not be fair to start talking about 'Assassin's Creed Odyssey' without stopping for a second to comment on what he thought of the game before this text, so it seems appropriate to start his analysis precisely there.</p>
 							</div>
 						</div>
 					</div>

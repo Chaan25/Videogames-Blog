@@ -82,7 +82,7 @@
 				<div class="row">
 					<div class="col-xl-5 col-lg-6 text-white">
 						<h2>Game reviews</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec malesuada lorem maximus mauris scelerisque, at rutrum nulla dictum.</p>
+						<!--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec malesuada lorem maximus mauris scelerisque, at rutrum nulla dictum.</p>-->
 					</div>
 				</div>
 			</div>
@@ -101,7 +101,7 @@
 							<div class="score yellow">9.3</div>
 						</div>
 						<div class="review-text">
-							<h4>Overwatch Halloween</h4>
+							<h4>Apex Legends</h4>
 							<div class="rating">
 								<i class="fa fa-star"></i>
 								<i class="fa fa-star"></i>
@@ -109,7 +109,7 @@
 								<i class="fa fa-star"></i>
 								<i class="fa fa-star is-fade"></i>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame. Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame.</p>
+							<p>I shouldn't be feeling this nice. Apex Legends is a lot like most battle royale games.</p>
 						</div>
 					</div>
 				</div>
@@ -119,7 +119,7 @@
 							<div class="score yellow">9.3</div>
 						</div>
 						<div class="review-text">
-							<h4>Grand Theft Auto</h4>
+							<h4>Grand Theft Auto V</h4>
 							<div class="rating">
 								<i class="fa fa-star"></i>
 								<i class="fa fa-star"></i>
@@ -127,7 +127,7 @@
 								<i class="fa fa-star"></i>
 								<i class="fa fa-star is-fade"></i>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame. Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame.</p>
+							<p>For me, Grand Theft Auto V’s extraordinary scope is summed up in two favourite moments.</p>
 						</div>
 					</div>
 				</div>
@@ -137,7 +137,7 @@
 							<div class="score yellow">9.3</div>
 						</div>
 						<div class="review-text">
-							<h4>Avatar</h4>
+							<h4>The Evil Within 2</h4>
 							<div class="rating">
 								<i class="fa fa-star"></i>
 								<i class="fa fa-star"></i>
@@ -145,7 +145,7 @@
 								<i class="fa fa-star"></i>
 								<i class="fa fa-star is-fade"></i>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame. Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame.</p>
+							<p>Effective horror usually requires a highly directed experience — careful directorial control over each plot beat to keep the tension building.</p>
 						</div>
 					</div>
 				</div>
@@ -155,7 +155,7 @@
 							<div class="score yellow">9.3</div>
 						</div>
 						<div class="review-text">
-							<h4>Anthem</h4>
+							<h4>Battlefront 2</h4>
 							<div class="rating">
 								<i class="fa fa-star"></i>
 								<i class="fa fa-star"></i>
@@ -163,7 +163,7 @@
 								<i class="fa fa-star"></i>
 								<i class="fa fa-star is-fade"></i>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame. Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame.</p>
+							<p>Two years have passed since DICE and Electronic Arts rebooted Star Wars: Battlefront, recreating Star Wars' biggest battles on modern consoles and PC.</p>
 						</div>
 					</div>
 				</div>
@@ -173,7 +173,7 @@
 							<div class="score yellow">9.3</div>
 						</div>
 						<div class="review-text">
-							<h4>Cyberpunk 2077</h4>
+							<h4>Battlefield V</h4>
 							<div class="rating">
 								<i class="fa fa-star"></i>
 								<i class="fa fa-star"></i>
@@ -181,7 +181,7 @@
 								<i class="fa fa-star"></i>
 								<i class="fa fa-star is-fade"></i>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame. Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame.</p>
+							<p>A strong if slim shooter that lays down strong foundations for the future, while feeling a little unfinished. Battlefield 5 is a mess. It's the glitchiest.</p>
 						</div>
 					</div>
 				</div>
@@ -191,7 +191,7 @@
 							<div class="score yellow">9.3</div>
 						</div>
 						<div class="review-text">
-							<h4>Spiderman</h4>
+							<h4>Vampyr</h4>
 							<div class="rating">
 								<i class="fa fa-star"></i>
 								<i class="fa fa-star"></i>
@@ -199,7 +199,7 @@
 								<i class="fa fa-star"></i>
 								<i class="fa fa-star is-fade"></i>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame. Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame.</p>
+							<p>A beautiful premise wasted in this bland action RPG. Dontnod takes a thrillingly Gothic perspective on early 20th century London, but squanders it in a dreary and indecisive adventure.</p>
 						</div>
 					</div>
 				</div>

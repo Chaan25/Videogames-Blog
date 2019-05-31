@@ -82,7 +82,7 @@
 				<div class="row">
 					<div class="col-xl-5 col-lg-6 text-white">
 						<h2>Our Community</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec malesuada lorem maximus mauris scelerisque, at rutrum nulla dictum.</p>
+						<!--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec malesuada lorem maximus mauris scelerisque, at rutrum nulla dictum.</p>-->
 					</div>
 				</div>
 			</div>
@@ -115,8 +115,8 @@
 							<div class="author-avator set-bg" data-setbg="public/pictures/authors/1.jpg"></div>
 							<div class="post-content">
 								<h5>James Smith<span>posted an update</span></h5>
-								<div class="post-date">June 21, 2018</div>
-								<p>Lorem ipsum dolor sit amet, cdictum nisl onsectetur adipisc ing ipsum dolor sit ame. Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame.Donec venenatis at eros sit amet aliquam. Donec vel orci efficitur, dictum nisl vitae, scelerisque nibh. Curabitur eget ipsum pulvinar nunc gravida interdum. </p>
+								<div class="post-date">January 17 2019</div>
+								<p>The Super Nintendo has one of the most robust and eclectic libraries in gaming. Every genre is represented with top-notch games. Here are a few classics to get you started. Feel free to recommend more in the comments!</p>
 							</div>
 						</div>
 					</li>
@@ -125,8 +125,8 @@
 							<div class="author-avator set-bg" data-setbg="public/pictures/authors/8.jpg"></div>
 							<div class="post-content">
 								<h5>Partik Williams<span>posted an update</span></h5>
-								<div class="post-date">June 21, 2018</div>
-								<p>Lorem ipsum dolor sit amet, cdictum nisl onsectetur adipisc ing ipsum dolor sit ame. Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame.Donec venenatis at eros sit amet aliquam. Donec vel orci efficitur, dictum nisl vitae, scelerisque nibh. Curabitur eget ipsum pulvinar nunc gravida interdum. </p>
+								<div class="post-date">April 25, 2019</div>
+								<p>Super Metroid - Super Mario World - Legend of Zelda: Link to the Past - Earthbound - Chrono Trigger - Wild Guns - Illusion of Gaia - Turtles in Time - Contra III - Street Fighter II - Donkey Kong Country - Secret of Mana - Super Mario RPG - Yoshi's Island - Super Ghouls N' Ghosts - Kirby Super Star - Terranigma - Final Fantasy III - Mega Man X - Star Fox - Axelay - Super Castlevania IV - Mega Man 7 - Breath of Fire II - Final Fantasy II.</p>
 								<div class="attachment-file">
 									<img src="public/pictures/attachment.jpg" alt="">
 								</div>
@@ -138,8 +138,8 @@
 							<div class="author-avator set-bg" data-setbg="public/pictures/authors/5.jpg"></div>
 							<div class="post-content">
 								<h5>Cris The Man<span>posted an update</span></h5>
-								<div class="post-date">June 21, 2018</div>
-								<p>Lorem ipsum dolor sit amet, cdictum nisl onsectetur adipisc ing ipsum dolor sit ame. Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame.Donec venenatis at eros sit amet aliquam. Donec vel orci efficitur, dictum nisl vitae, scelerisque nibh. Curabitur eget ipsum pulvinar nunc gravida interdum. </p>
+								<div class="post-date">April 30, 2019</div>
+								<p>Unfortunately, repro labels are usually identical to the original, so you might not be able to tell if you've purchased a fake until you receive it and open it. A real cartridge board will have a Nintendo copyright inkstamp dated in the 90s, and will never contain wiring or hastily soldered chips. Here is an informative post on the subject from Earthbound Central with photo comparisons.</p>
 							</div>
 						</div>
 					</li>
@@ -148,8 +148,8 @@
 							<div class="author-avator set-bg" data-setbg="public/pictures/authors/1.jpg"></div>
 							<div class="post-content">
 								<h5>James Smith<span>posted an update</span></h5>
-								<div class="post-date">June 21, 2018</div>
-								<p>Lorem ipsum dolor sit amet, cdictum nisl onsectetur adipisc ing ipsum dolor sit ame. Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame.Donec venenatis at eros sit amet aliquam. Donec vel orci efficitur, dictum nisl vitae, scelerisque nibh. Curabitur eget ipsum pulvinar nunc gravida interdum. </p>
+								<div class="post-date">March 9, 2019</div>
+								<p>The Super Nintendo had some pretty cool accessories. By plugging these into the controller ports, gamers were given a variety of fun and different ways to play their games. Two of the most notable are the Super Scope gun controller and the SNES Mouse.</p>
 							</div>
 						</div>
 					</li>
@@ -158,8 +158,8 @@
 							<div class="author-avator set-bg" data-setbg="public/pictures/authors/4.jpg"></div>
 							<div class="post-content">
 								<h5>Cris The Man<span>posted an update</span></h5>
-								<div class="post-date">June 21, 2018</div>
-								<p>Lorem ipsum dolor sit amet, cdictum nisl onsectetur adipisc ing ipsum dolor sit ame. Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame.Donec venenatis at eros sit amet aliquam. Donec vel orci efficitur, dictum nisl vitae, scelerisque nibh. Curabitur eget ipsum pulvinar nunc gravida interdum. </p>
+								<div class="post-date">March 21, 2019</div>
+								<p>You can play all of your original Game Boy cartridges on your SNES by using the Super Game Boy accessory. To play, simply put the cartridge in the SGB, and put the SGB in your SNES.</p>
 							</div>
 						</div>
 					</li>
@@ -168,8 +168,8 @@
 							<div class="author-avator set-bg" data-setbg="public/pictures/authors/6.jpg"></div>
 							<div class="post-content">
 								<h5>James Smith<span>posted an update</span></h5>
-								<div class="post-date">June 21, 2018</div>
-								<p>Lorem ipsum dolor sit amet, cdictum nisl onsectetur adipisc ing ipsum dolor sit ame. Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame.Donec venenatis at eros sit amet aliquam. Donec vel orci efficitur, dictum nisl vitae, scelerisque nibh. Curabitur eget ipsum pulvinar nunc gravida interdum. </p>
+								<div class="post-date">March 31, 2019</div>
+								<p>The only things necessary to play Super Famicom games on a North American SNES console are a pair of pliers and a bit of muscle. There are two plastic tabs on the inside of a SNES that prevent a SFC cart from being inserted into the system. Simply removing these tabs ( will allow you to play a Japanese SFC cartridge!</p>
 							</div>
 						</div>
 					</li>
@@ -178,8 +178,9 @@
 							<div class="author-avator set-bg" data-setbg="public/pictures/authors/7.jpg"></div>
 							<div class="post-content">
 								<h5>Maria Doe<span>posted an update</span></h5>
-								<div class="post-date">June 21, 2018</div>
-								<p>Lorem ipsum dolor sit amet, cdictum nisl onsectetur adipisc ing ipsum dolor sit ame. Lorem ipsum dolor sit amet, consectetur adipisc ing ipsum dolor sit ame.Donec venenatis at eros sit amet aliquam. Donec vel orci efficitur, dictum nisl vitae, scelerisque nibh. Curabitur eget ipsum pulvinar nunc gravida interdum. </p>
+								<div class="post-date">June 1, 2019</div>
+								<p>If you've ever searched for games like Super Castlevania and Contra 3 on eBay, you may have noticed some versions of those games come with black and white instruction booklets. This black and white booklet is generally the calling card of the Majesco re-releases. In the mid-to-late 90s, Majesco reprinted a number of SNES games from publishers such as Konami and Capcom. The games themselves are unchanged but they do tend to go for a little cheaper due to them being re-releases. Their calling cards are the previously mentioned black and white manuals, lower quality, matte cart labels (this is somewhat difficult to pick out), no sticker on the back of the cartridge (in some cases), and the "Assembled in Mexico" text on the carts and on the back of their boxes.
+</p>
 							</div>
 						</div>
 					</li>

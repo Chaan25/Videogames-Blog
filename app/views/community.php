@@ -50,8 +50,8 @@
 			<nav class="main-menu">
 				<ul>
 					<li><a href="./">Home</a></li>
-					<li><a href="./review">Games</a></li>
-					<li><a href="./categories">Blog</a></li>
+					<li><a href="./review">Reviews</a></li>
+					<li><a href="./categories">Categories</a></li>
 					<li><a href="./community">Forums</a></li>
 				</ul>
 			</nav>
@@ -286,8 +286,8 @@
 		<div class="container">
 			<ul class="footer-menu">
 				<li><a href="./">Home</a></li>
-				<li><a href="./review">Games</a></li>
-				<li><a href="./categories">Blog</a></li>
+				<li><a href="./review">Reviews</a></li>
+				<li><a href="./categories">Categories</a></li>
 				<li><a href="./community">Forums</a></li>
 			</ul>
 			<p class="copyright">

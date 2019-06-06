@@ -72,7 +72,7 @@
 						<h2>Fortnite Battle Royale now has an event <span>related to the movie </span> John Wick:
 							Chapter 3 -
 							Parabellum </h2>
-						<a href="#" class="site-btn">Read More</a>
+						<a href="https://www.epicgames.com/fortnite/en-US/news/everyone-wants-wick" class="site-btn">Read More</a>
 					</div>
 				</div>
 			</div>
@@ -115,7 +115,7 @@
 					<div class="feature-item set-bg" data-setbg="public/pictures/features/1.jpg">
 						<span class="cata new">battle royale</span>
 						<div class="fi-content text-white">
-							<h5><a href="#">Fortnite</a></h5>
+							<h5><a href="https://www.epicgames.com/fortnite/es-MX/watch-fortnite">Fortnite</a></h5>
 							<p>A free-to-play battle royale game where up to 100 players fight to be the last person
 								standing.</p>
 							<a href="#" class="fi-comment">109 Comments</a>
@@ -126,7 +126,7 @@
 					<div class="feature-item set-bg" data-setbg="public/pictures/features/2.jpg">
 						<span class="cata strategy">classic RPG</span>
 						<div class="fi-content text-white">
-							<h5><a href="#">The Outer World</a></h5>
+							<h5><a href="https://store.steampowered.com/app/578650/The_Outer_Worlds/">The Outer World</a></h5>
 							<p>The next Descend is about to happen and gods will soon arrive from the skies to get their
 								offering of living individuals.. </p>
 							<a href="#" class="fi-comment">27 Comments</a>
@@ -137,7 +137,7 @@
 					<div class="feature-item set-bg" data-setbg="public/pictures/features/3.jpg">
 						<span class="cata new">rol action</span>
 						<div class="fi-content text-white">
-							<h5><a href="#">Transistor</a></h5>
+							<h5><a href="https://store.steampowered.com/app/237930/Transistor/?l=spanish">Transistor</a></h5>
 							<p>Is an action role-playing video game developed and published by Supergiant Games.</p>
 							<a href="#" class="fi-comment">59 Comments</a>
 						</div>
@@ -147,7 +147,7 @@
 					<div class="feature-item set-bg" data-setbg="public/pictures/features/4.jpg">
 						<span class="cata racing">Surviving</span>
 						<div class="fi-content text-white">
-							<h5><a href="#">Oxigen</a></h5>
+							<h5><a href="https://store.steampowered.com/app/457140/Oxygen_Not_Included/">Oxigen</a></h5>
 							<p>In the space-colony simulation game Oxygen Not Included you’ll find that scarcities of
 								oxygen, warmth and sustenance are constant threats to your colony's survival.</p>
 							<a href="#" class="fi-comment">3 Comments</a>

@@ -1,2 +1,2 @@
 # Videogames-Blog
-This is a template based in a blog of videogames
+This is a template based in a Gamer Blog

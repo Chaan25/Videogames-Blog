@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
 	<title>Game Warrior</title>
@@ -69,7 +69,8 @@
 			<div class="hs-item set-bg" data-setbg="public/pictures/slider-1.jpg">
 				<div class="hs-text">
 					<div class="container">
-						<h2>Fortnite Battle Royale now has an event <span>related to the movie </span> John Wick: Chapter 3 -
+						<h2>Fortnite Battle Royale now has an event <span>related to the movie </span> John Wick:
+							Chapter 3 -
 							Parabellum </h2>
 						<a href="#" class="site-btn">Read More</a>
 					</div>
@@ -78,7 +79,8 @@
 			<div class="hs-item set-bg" data-setbg="public/pictures/slider-2.jpg">
 				<div class="hs-text">
 					<div class="container">
-						<h2>Fortnite x Avengers Endgame has already reached <span>the battle royale of</span> Epic Games. </h2>
+						<h2>Fortnite x Avengers Endgame has already reached <span>the battle royale of</span> Epic
+							Games. </h2>
 						<a href="#" class="site-btn">Read More</a>
 					</div>
 				</div>
@@ -93,10 +95,12 @@
 		<div class="ln-title">Latest News</div>
 		<div class="news-ticker">
 			<div class="news-ticker-contant">
-				<div class="nt-item"><span class="new">new</span>FORTNITE X MICHAEL JORDAN NBA COLLABORATION COMING SOON TO FORTNITE BATTLE ROYALE. </div>
+				<div class="nt-item"><span class="new">new</span>FORTNITE X MICHAEL JORDAN NBA COLLABORATION COMING SOON
+					TO FORTNITE BATTLE ROYALE. </div>
 				<div class="nt-item"><span class="strategy">updates</span>FORTNITE V9.10 PATCH NOTES.
 				</div>
-				<div class="nt-item"><span class="racing">comming</span>PLAYERS HAVE FOUND A CLEAR REFERENCE TO 'STRANGER THINGS' IN ONE OF THE NEW 'FORTNITE' LOCATIONS. A SPECIAL EVENT WOULD BE IMMINENT.</div>
+				<div class="nt-item"><span class="racing">comming</span>PLAYERS HAVE FOUND A CLEAR REFERENCE TO
+					'STRANGER THINGS' IN ONE OF THE NEW 'FORTNITE' LOCATIONS. A SPECIAL EVENT WOULD BE IMMINENT.</div>
 			</div>
 		</div>
 	</div>
@@ -112,7 +116,8 @@
 						<span class="cata new">battle royale</span>
 						<div class="fi-content text-white">
 							<h5><a href="#">Fortnite</a></h5>
-							<p>A free-to-play battle royale game where up to 100 players fight to be the last person standing.</p>
+							<p>A free-to-play battle royale game where up to 100 players fight to be the last person
+								standing.</p>
 							<a href="#" class="fi-comment">109 Comments</a>
 						</div>
 					</div>
@@ -122,7 +127,8 @@
 						<span class="cata strategy">classic RPG</span>
 						<div class="fi-content text-white">
 							<h5><a href="#">The Outer World</a></h5>
-							<p>The next Descend is about to happen and gods will soon arrive from the skies to get their offering of living individuals.. </p>
+							<p>The next Descend is about to happen and gods will soon arrive from the skies to get their
+								offering of living individuals.. </p>
 							<a href="#" class="fi-comment">27 Comments</a>
 						</div>
 					</div>
@@ -142,7 +148,8 @@
 						<span class="cata racing">Surviving</span>
 						<div class="fi-content text-white">
 							<h5><a href="#">Oxigen</a></h5>
-							<p>In the space-colony simulation game Oxygen Not Included you’ll find that scarcities of oxygen, warmth and sustenance are constant threats to your colony's survival.</p>
+							<p>In the space-colony simulation game Oxygen Not Included you’ll find that scarcities of
+								oxygen, warmth and sustenance are constant threats to your colony's survival.</p>
 							<a href="#" class="fi-comment">3 Comments</a>
 						</div>
 					</div>
@@ -168,7 +175,8 @@
 						</div>
 						<div class="rgi-content">
 							<h5>Metro Last Light Redux</h5>
-							<p>Under the ruins of a post-apocalyptic Moscow, in the underground tunnels, the survivors of humanity are besieged by deadly threats from the outside ... and the inside.</p>
+							<p>Under the ruins of a post-apocalyptic Moscow, in the underground tunnels, the survivors
+								of humanity are besieged by deadly threats from the outside ... and the inside.</p>
 							<a href="#" class="comment">24 Comments</a>
 							<div class="rgi-extra">
 								<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
@@ -184,7 +192,8 @@
 						</div>
 						<div class="rgi-content">
 							<h5>Beyond Two Souls</h5>
-							<p>A unique psychological thriller of action that features the performances of Hollywood stars Ellen PAGE and Willem DAFOE. </p>
+							<p>A unique psychological thriller of action that features the performances of Hollywood
+								stars Ellen PAGE and Willem DAFOE. </p>
 							<a href="#" class="comment">74 Comments</a>
 							<div class="rgi-extra">
 								<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
@@ -200,7 +209,9 @@
 						</div>
 						<div class="rgi-content">
 							<h5>World War Z</h5>
-							<p>World War Z is an exciting cooperative (four player) cooperative shooting game in the third person, with massive hordes of zombies devouring their living prey without mercy. </p>
+							<p>World War Z is an exciting cooperative (four player) cooperative shooting game in the
+								third person, with massive hordes of zombies devouring their living prey without mercy.
+							</p>
 							<a href="#" class="comment">287 Comments</a>
 							<div class="rgi-extra">
 								<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
@@ -349,7 +360,8 @@
 								<div class="lb-thumb set-bg" data-setbg="public/pictures/latest-blog/2.jpg"></div>
 								<div class="lb-content">
 									<div class="lb-date">May 21, 2019</div>
-									<p>We are happy to announce today that the public test server (PTS) will be back on May 21!</p>
+									<p>We are happy to announce today that the public test server (PTS) will be back on
+										May 21!</p>
 									<a href="#" class="lb-author">PUBG CORPORATION</a>
 								</div>
 							</div>
@@ -357,7 +369,8 @@
 								<div class="lb-thumb set-bg" data-setbg="public/pictures/latest-blog/3.jpg"></div>
 								<div class="lb-content">
 									<div class="lb-date">April 4, 2019</div>
-									<p>Varok Colmillosauro is aware that, in order to build a future for the Horde, he must contact whoever led him in the past.</p>
+									<p>Varok Colmillosauro is aware that, in order to build a future for the Horde, he
+										must contact whoever led him in the past.</p>
 									<a href="#" class="lb-author">BLIZZARD</a>
 								</div>
 							</div>
@@ -371,7 +384,8 @@
 							<div class="tc-item">
 								<div class="tc-thumb set-bg" data-setbg="public/pictures/authors/1.jpg"></div>
 								<div class="tc-content">
-									<p><a href="#">James Smith</a> <span>on</span> I want to give my opinion about...</p>
+									<p><a href="#">James Smith</a> <span>on</span> I want to give my opinion about...
+									</p>
 									<div class="tc-date">May 21, 2019</div>
 								</div>
 							</div>
@@ -385,7 +399,8 @@
 							<div class="tc-item">
 								<div class="tc-thumb set-bg" data-setbg="public/pictures/authors/3.jpg"></div>
 								<div class="tc-content">
-									<p><a href="#">James Smith</a> <span>on</span> Fortnite is the best battle royale...</p>
+									<p><a href="#">James Smith</a> <span>on</span> Fortnite is the best battle royale...
+									</p>
 									<div class="tc-date">January 25, 2019</div>
 								</div>
 							</div>
@@ -418,8 +433,8 @@
 				<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 				Copyright &copy;<script>
 					document.write(new Date().getFullYear());
-				</script> All rights reserved | This template is made with by
-				<a href="https://colorlib.com" target="_blank">Colorlib</a>
+				</script> All rights reserved | This template is made with by Colorlib -
+				<a href="./about" target="_blank">About Us</a>
 				<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 			</p>
 		</div>

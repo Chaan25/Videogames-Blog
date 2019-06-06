@@ -1,23 +1,24 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="en">
+
 <head>
 	<title>Game Warrior</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Game Warrior Template">
 	<meta name="keywords" content="warrior, game, creative, html">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<!-- Favicon -->   
-	<link href="public/pictures/favicon.ico" rel="shortcut icon"/>
+	<!-- Favicon -->
+	<link href="public/pictures/favicon.ico" rel="shortcut icon" />
 
 	<!-- Google Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i" rel="stylesheet">
 
 	<!-- Stylesheets -->
-	<link rel="stylesheet" href="public/layout/styles/bootstrap.min.css"/>
-	<link rel="stylesheet" href="public/layout/styles/font-awesome.min.css"/>
-	<link rel="stylesheet" href="public/layout/styles/owl.carousel.css"/>
-	<link rel="stylesheet" href="public/layout/styles/style.css"/>
-	<link rel="stylesheet" href="public/layout/styles/animate.css"/>
+	<link rel="stylesheet" href="public/layout/styles/bootstrap.min.css" />
+	<link rel="stylesheet" href="public/layout/styles/font-awesome.min.css" />
+	<link rel="stylesheet" href="public/layout/styles/owl.carousel.css" />
+	<link rel="stylesheet" href="public/layout/styles/style.css" />
+	<link rel="stylesheet" href="public/layout/styles/animate.css" />
 
 
 	<!--[if lt IE 9]>
@@ -26,6 +27,7 @@
 	<![endif]-->
 	<script src="https://kit.fontawesome.com/6ed47e4f47.js"></script>
 </head>
+
 <body>
 	<!-- Page Preloder -->
 	<div id="preloder">
@@ -40,7 +42,7 @@
 				<img src="public/pictures/logo.png" alt="">
 			</a>
 			<div class="user-panel">
-				<a href="#">Login</a>  /  <a href="#">Register</a>
+				<a href="#">Login</a> / <a href="#">Register</a>
 			</div>
 			<!-- responsive -->
 			<div class="nav-switch">
@@ -65,10 +67,12 @@
 		<div class="ln-title">Latest News</div>
 		<div class="news-ticker">
 			<div class="news-ticker-contant">
-				<div class="nt-item"><span class="new">new</span>FORTNITE X MICHAEL JORDAN NBA COLLABORATION COMING SOON TO FORTNITE BATTLE ROYALE. </div>
+				<div class="nt-item"><span class="new">new</span>FORTNITE X MICHAEL JORDAN NBA COLLABORATION COMING SOON TO
+					FORTNITE BATTLE ROYALE. </div>
 				<div class="nt-item"><span class="strategy">updates</span>FORTNITE V9.10 PATCH NOTES.
 				</div>
-				<div class="nt-item"><span class="racing">comming</span>PLAYERS HAVE FOUND A CLEAR REFERENCE TO 'STRANGER THINGS' IN ONE OF THE NEW 'FORTNITE' LOCATIONS. A SPECIAL EVENT WOULD BE IMMINENT.</div>
+				<div class="nt-item"><span class="racing">comming</span>PLAYERS HAVE FOUND A CLEAR REFERENCE TO 'STRANGER
+					THINGS' IN ONE OF THE NEW 'FORTNITE' LOCATIONS. A SPECIAL EVENT WOULD BE IMMINENT.</div>
 			</div>
 		</div>
 	</div>
@@ -145,7 +149,8 @@
 								<i class="fa fa-star"></i>
 								<i class="fa fa-star is-fade"></i>
 							</div>
-							<p>Effective horror usually requires a highly directed experience — careful directorial control over each plot beat to keep the tension building.</p>
+							<p>Effective horror usually requires a highly directed experience — careful directorial control over each
+								plot beat to keep the tension building.</p>
 						</div>
 					</div>
 				</div>
@@ -163,7 +168,8 @@
 								<i class="fa fa-star"></i>
 								<i class="fa fa-star is-fade"></i>
 							</div>
-							<p>Two years have passed since DICE and Electronic Arts rebooted Star Wars: Battlefront, recreating Star Wars' biggest battles on modern consoles and PC.</p>
+							<p>Two years have passed since DICE and Electronic Arts rebooted Star Wars: Battlefront, recreating Star
+								Wars' biggest battles on modern consoles and PC.</p>
 						</div>
 					</div>
 				</div>
@@ -181,7 +187,8 @@
 								<i class="fa fa-star"></i>
 								<i class="fa fa-star is-fade"></i>
 							</div>
-							<p>A strong if slim shooter that lays down strong foundations for the future, while feeling a little unfinished. Battlefield 5 is a mess. It's the glitchiest.</p>
+							<p>A strong if slim shooter that lays down strong foundations for the future, while feeling a little
+								unfinished. Battlefield 5 is a mess. It's the glitchiest.</p>
 						</div>
 					</div>
 				</div>
@@ -199,7 +206,8 @@
 								<i class="fa fa-star"></i>
 								<i class="fa fa-star is-fade"></i>
 							</div>
-							<p>A beautiful premise wasted in this bland action RPG. Dontnod takes a thrillingly Gothic perspective on early 20th century London, but squanders it in a dreary and indecisive adventure.</p>
+							<p>A beautiful premise wasted in this bland action RPG. Dontnod takes a thrillingly Gothic perspective on
+								early 20th century London, but squanders it in a dreary and indecisive adventure.</p>
 						</div>
 					</div>
 				</div>
@@ -307,7 +315,8 @@
 								<div class="lb-thumb set-bg" data-setbg="public/pictures/latest-blog/3.jpg"></div>
 								<div class="lb-content">
 									<div class="lb-date">April 4, 2019</div>
-									<p>Varok Colmillosauro is aware that, in order to build a future for the Horde, he must contact whoever led him in the past.</p>
+									<p>Varok Colmillosauro is aware that, in order to build a future for the Horde, he must contact
+										whoever led him in the past.</p>
 									<a href="#" class="lb-author">BLIZZARD</a>
 								</div>
 							</div>
@@ -360,16 +369,16 @@
 		<div class="container">
 			<ul class="footer-menu">
 				<li><a href="./">Home</a></li>
-				<li><a href="./review">Games</a></li>
-				<li><a href="./categories">Blog</a></li>
+				<li><a href="./review">Reviews</a></li>
+				<li><a href="./categories">Categories</a></li>
 				<li><a href="./community">Forums</a></li>
 			</ul>
 			<p class="copyright">
 				<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 				Copyright &copy;<script>
 					document.write(new Date().getFullYear());
-				</script> All rights reserved | This template is made with by
-				<a href="https://colorlib.com" target="_blank">Colorlib</a>
+				</script> All rights reserved | This template is made with by Colorlib -
+				<a href="./about" target="_blank">About Us</a>
 				<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 			</p>
 		</div>
@@ -383,5 +392,6 @@
 	<script src="public/layout/scripts/owl.carousel.min.js"></script>
 	<script src="public/layout/scripts/jquery.marquee.min.js"></script>
 	<script src="public/layout/scripts/main.js"></script>
-    </body>
+</body>
+
 </html>

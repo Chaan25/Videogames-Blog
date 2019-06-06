@@ -1,23 +1,24 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="en">
+
 <head>
 	<title>Game Warrior</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Game Warrior Template">
 	<meta name="keywords" content="warrior, game, creative, html">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<!-- Favicon -->   
-	<link href="public/pictures/favicon.ico" rel="shortcut icon"/>
+	<!-- Favicon -->
+	<link href="public/pictures/favicon.ico" rel="shortcut icon" />
 
 	<!-- Google Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i" rel="stylesheet">
 
 	<!-- Stylesheets -->
-	<link rel="stylesheet" href="public/layout/styles/bootstrap.min.css"/>
-	<link rel="stylesheet" href="public/layout/styles/font-awesome.min.css"/>
-	<link rel="stylesheet" href="public/layout/styles/owl.carousel.css"/>
-	<link rel="stylesheet" href="public/layout/styles/style.css"/>
-	<link rel="stylesheet" href="public/layout/styles/animate.css"/>
+	<link rel="stylesheet" href="public/layout/styles/bootstrap.min.css" />
+	<link rel="stylesheet" href="public/layout/styles/font-awesome.min.css" />
+	<link rel="stylesheet" href="public/layout/styles/owl.carousel.css" />
+	<link rel="stylesheet" href="public/layout/styles/style.css" />
+	<link rel="stylesheet" href="public/layout/styles/animate.css" />
 
 
 	<!--[if lt IE 9]>
@@ -26,6 +27,7 @@
 	<![endif]-->
 	<script src="https://kit.fontawesome.com/6ed47e4f47.js"></script>
 </head>
+
 <body>
 	<!-- Page Preloder -->
 	<div id="preloder">
@@ -40,7 +42,7 @@
 				<img src="public/pictures/logo.png" alt="">
 			</a>
 			<div class="user-panel">
-				<a href="#">Login</a>  /  <a href="#">Register</a>
+				<a href="#">Login</a> / <a href="#">Register</a>
 			</div>
 			<!-- responsive -->
 			<div class="nav-switch">
@@ -65,10 +67,12 @@
 		<div class="ln-title">Latest News</div>
 		<div class="news-ticker">
 			<div class="news-ticker-contant">
-				<div class="nt-item"><span class="new">new</span>FORTNITE X MICHAEL JORDAN NBA COLLABORATION COMING SOON TO FORTNITE BATTLE ROYALE. </div>
+				<div class="nt-item"><span class="new">new</span>FORTNITE X MICHAEL JORDAN NBA COLLABORATION COMING SOON TO
+					FORTNITE BATTLE ROYALE. </div>
 				<div class="nt-item"><span class="strategy">updates</span>FORTNITE V9.10 PATCH NOTES.
 				</div>
-				<div class="nt-item"><span class="racing">comming</span>PLAYERS HAVE FOUND A CLEAR REFERENCE TO 'STRANGER THINGS' IN ONE OF THE NEW 'FORTNITE' LOCATIONS. A SPECIAL EVENT WOULD BE IMMINENT.</div>
+				<div class="nt-item"><span class="racing">comming</span>PLAYERS HAVE FOUND A CLEAR REFERENCE TO 'STRANGER
+					THINGS' IN ONE OF THE NEW 'FORTNITE' LOCATIONS. A SPECIAL EVENT WOULD BE IMMINENT.</div>
 			</div>
 		</div>
 	</div>
@@ -104,14 +108,15 @@
 								</div>
 								<div class="rgi-content">
 									<h5>Metro Last Light Redux</h5>
-									<p>Under the ruins of a post-apocalyptic Moscow, in the underground tunnels, the survivors of humanity are besieged by deadly threats from the outside ... and the inside.</p>
+									<p>Under the ruins of a post-apocalyptic Moscow, in the underground tunnels, the survivors of humanity
+										are besieged by deadly threats from the outside ... and the inside.</p>
 									<a href="#" class="comment">3 Comments</a>
 									<div class="rgi-extra">
 										<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
 										<div class="rgi-heart"><img src="public/pictures/icons/heart.png" alt=""></div>
 									</div>
 								</div>
-							</div>	
+							</div>
 						</div>
 						<div class="col-md-6">
 							<div class="recent-game-item">
@@ -119,15 +124,16 @@
 									<div class="cata racing">racing</div>
 								</div>
 								<div class="rgi-content">
-								<h5>Beyond Two Souls</h5>
-								<p>A unique psychological thriller of action that features the performances of Hollywood stars Ellen PAGE and Willem DAFOE. </p>
+									<h5>Beyond Two Souls</h5>
+									<p>A unique psychological thriller of action that features the performances of Hollywood stars Ellen
+										PAGE and Willem DAFOE. </p>
 									<a href="#" class="comment">12 Comments</a>
 									<div class="rgi-extra">
 										<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
 										<div class="rgi-heart"><img src="public/pictures/icons/heart.png" alt=""></div>
 									</div>
 								</div>
-							</div>	
+							</div>
 						</div>
 						<div class="col-md-6">
 							<div class="recent-game-item">
@@ -135,15 +141,16 @@
 									<div class="cata adventure">Adventure</div>
 								</div>
 								<div class="rgi-content">
-								<h5>World War Z</h5>
-								<p>World War Z is an exciting cooperative (four player) cooperative shooting game in the third person, with massive hordes of zombies devouring their living prey without mercy. </p>
+									<h5>World War Z</h5>
+									<p>World War Z is an exciting cooperative (four player) cooperative shooting game in the third person,
+										with massive hordes of zombies devouring their living prey without mercy. </p>
 									<a href="#" class="comment">23 Comments</a>
 									<div class="rgi-extra">
 										<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
 										<div class="rgi-heart"><img src="public/pictures/icons/heart.png" alt=""></div>
 									</div>
 								</div>
-							</div>	
+							</div>
 						</div>
 						<div class="col-md-6">
 							<div class="recent-game-item">
@@ -152,14 +159,16 @@
 								</div>
 								<div class="rgi-content">
 									<h5>World of Warcraft</h5>
-									<p>WoW , literally in Spanish World of Warcraft ) is a massively multiplayer online role-playing video game developed by Blizzard Entertainment . It is the fourth released game established in the fantasy universe of Warcraft , which was first introduced by Warcraft: Orcs & Humans in 1994.</p>
+									<p>WoW , literally in Spanish World of Warcraft ) is a massively multiplayer online role-playing video
+										game developed by Blizzard Entertainment . It is the fourth released game established in the fantasy
+										universe of Warcraft , which was first introduced by Warcraft: Orcs & Humans in 1994.</p>
 									<a href="#" class="comment">789 Comments</a>
 									<div class="rgi-extra">
 										<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
 										<div class="rgi-heart"><img src="public/pictures/icons/heart.png" alt=""></div>
 									</div>
 								</div>
-							</div>	
+							</div>
 						</div>
 						<div class="col-md-6">
 							<div class="recent-game-item">
@@ -168,14 +177,15 @@
 								</div>
 								<div class="rgi-content">
 									<h5>Overwatch Halloween</h5>
-									<p>Over the next three weeks, we're going to celebrate the most sinister time of the year with a spooky Overwatch: Scary Halloween event. </p>
+									<p>Over the next three weeks, we're going to celebrate the most sinister time of the year with a
+										spooky Overwatch: Scary Halloween event. </p>
 									<a href="#" class="comment">1225 Comments</a>
 									<div class="rgi-extra">
 										<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
 										<div class="rgi-heart"><img src="public/pictures/icons/heart.png" alt=""></div>
 									</div>
 								</div>
-							</div>	
+							</div>
 						</div>
 						<div class="col-md-6">
 							<div class="recent-game-item">
@@ -191,7 +201,7 @@
 										<div class="rgi-heart"><img src="public/pictures/icons/heart.png" alt=""></div>
 									</div>
 								</div>
-							</div>	
+							</div>
 						</div>
 						<div class="col-md-6">
 							<div class="recent-game-item">
@@ -200,14 +210,16 @@
 								</div>
 								<div class="rgi-content">
 									<h5>PUBG</h5>
-									<p>Patch # 29 is now available and comes with the 2nd rebalanced Vikendi, new options in the Custom Games and a new Tactical Map Marker system to communicate with your Duo or Squad partners. In the following video you can see the new features that have been incorporated.</p>
+									<p>Patch # 29 is now available and comes with the 2nd rebalanced Vikendi, new options in the Custom
+										Games and a new Tactical Map Marker system to communicate with your Duo or Squad partners. In the
+										following video you can see the new features that have been incorporated.</p>
 									<a href="#" class="comment">478 Comments</a>
 									<div class="rgi-extra">
 										<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
 										<div class="rgi-heart"><img src="public/pictures/icons/heart.png" alt=""></div>
 									</div>
 								</div>
-							</div>	
+							</div>
 						</div>
 						<div class="col-md-6">
 							<div class="recent-game-item">
@@ -216,14 +228,15 @@
 								</div>
 								<div class="rgi-content">
 									<h5>Anthem</h5>
-									<p>This is only the beginning of Anthem. The world will continue to evolve and present new challenges as your arsenal of halberds grows and you unleash your power.</p>
+									<p>This is only the beginning of Anthem. The world will continue to evolve and present new challenges
+										as your arsenal of halberds grows and you unleash your power.</p>
 									<a href="#" class="comment">325 Comments</a>
 									<div class="rgi-extra">
 										<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
 										<div class="rgi-heart"><img src="public/pictures/icons/heart.png" alt=""></div>
 									</div>
 								</div>
-							</div>	
+							</div>
 						</div>
 					</div>
 					<div class="site-pagination">
@@ -265,7 +278,8 @@
 								<div class="lb-thumb set-bg" data-setbg="public/pictures/latest-blog/3.jpg"></div>
 								<div class="lb-content">
 									<div class="lb-date">April 4, 2019</div>
-									<p>Varok Colmillosauro is aware that, in order to build a future for the Horde, he must contact whoever led him in the past.</p>
+									<p>Varok Colmillosauro is aware that, in order to build a future for the Horde, he must contact
+										whoever led him in the past.</p>
 									<a href="#" class="lb-author">PUBG CORPORATION</a>
 								</div>
 							</div>
@@ -317,7 +331,9 @@
 							</div>
 							<div class="review-text">
 								<h5>Assasin’’s Creed</h5>
-								<p>t would not be fair to start talking about 'Assassin's Creed Odyssey' without stopping for a second to comment on what he thought of the game before this text, so it seems appropriate to start his analysis precisely there.</p>
+								<p>t would not be fair to start talking about 'Assassin's Creed Odyssey' without stopping for a second
+									to comment on what he thought of the game before this text, so it seems appropriate to start his
+									analysis precisely there.</p>
 							</div>
 						</div>
 					</div>
@@ -365,7 +381,8 @@
 								<div class="lb-thumb set-bg" data-setbg="public/pictures/latest-blog/3.jpg"></div>
 								<div class="lb-content">
 									<div class="lb-date">April 4, 2019</div>
-									<p>Varok Colmillosauro is aware that, in order to build a future for the Horde, he must contact whoever led him in the past.</p>
+									<p>Varok Colmillosauro is aware that, in order to build a future for the Horde, he must contact
+										whoever led him in the past.</p>
 									<a href="#" class="lb-author">BLIZZARD</a>
 								</div>
 							</div>
@@ -426,8 +443,8 @@
 				<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 				Copyright &copy;<script>
 					document.write(new Date().getFullYear());
-				</script> All rights reserved | This template is made with by
-				<a href="https://colorlib.com" target="_blank">Colorlib</a>
+				</script> All rights reserved | This template is made with by Colorlib -
+				<a href="./about" target="_blank">About Us</a>
 				<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 			</p>
 		</div>
@@ -441,5 +458,6 @@
 	<script src="public/layout/scripts/owl.carousel.min.js"></script>
 	<script src="public/layout/scripts/jquery.marquee.min.js"></script>
 	<script src="public/layout/scripts/main.js"></script>
-    </body>
+</body>
+
 </html>

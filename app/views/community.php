@@ -1,23 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 	<title>Game Warrior</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Game Warrior Template">
 	<meta name="keywords" content="warrior, game, creative, html">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<!-- Favicon -->   
-	<link href="public/pictures/favicon.ico" rel="shortcut icon"/>
+	<!-- Favicon -->
+	<link href="public/pictures/favicon.ico" rel="shortcut icon" />
 
 	<!-- Google Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i" rel="stylesheet">
 
 	<!-- Stylesheets -->
-	<link rel="stylesheet" href="public/layout/styles/bootstrap.min.css"/>
-	<link rel="stylesheet" href="public/layout/styles/font-awesome.min.css"/>
-	<link rel="stylesheet" href="public/layout/styles/owl.carousel.css"/>
-	<link rel="stylesheet" href="public/layout/styles/style.css"/>
-	<link rel="stylesheet" href="public/layout/styles/animate.css"/>
+	<link rel="stylesheet" href="public/layout/styles/bootstrap.min.css" />
+	<link rel="stylesheet" href="public/layout/styles/font-awesome.min.css" />
+	<link rel="stylesheet" href="public/layout/styles/owl.carousel.css" />
+	<link rel="stylesheet" href="public/layout/styles/style.css" />
+	<link rel="stylesheet" href="public/layout/styles/animate.css" />
 
 
 	<!--[if lt IE 9]>
@@ -26,6 +27,7 @@
 	<![endif]-->
 	<script src="https://kit.fontawesome.com/6ed47e4f47.js"></script>
 </head>
+
 <body>
 	<!-- Page Preloder -->
 	<div id="preloder">
@@ -40,7 +42,7 @@
 				<img src="public/pictures/logo.png" alt="">
 			</a>
 			<div class="user-panel">
-				<a href="#">Login</a>  /  <a href="#">Register</a>
+				<a href="#">Login</a> / <a href="#">Register</a>
 			</div>
 			<!-- responsive -->
 			<div class="nav-switch">
@@ -65,10 +67,12 @@
 		<div class="ln-title">Latest News</div>
 		<div class="news-ticker">
 			<div class="news-ticker-contant">
-				<div class="nt-item"><span class="new">new</span>FORTNITE X MICHAEL JORDAN NBA COLLABORATION COMING SOON TO FORTNITE BATTLE ROYALE. </div>
+				<div class="nt-item"><span class="new">new</span>FORTNITE X MICHAEL JORDAN NBA COLLABORATION COMING SOON TO
+					FORTNITE BATTLE ROYALE. </div>
 				<div class="nt-item"><span class="strategy">updates</span>FORTNITE V9.10 PATCH NOTES.
 				</div>
-				<div class="nt-item"><span class="racing">comming</span>PLAYERS HAVE FOUND A CLEAR REFERENCE TO 'STRANGER THINGS' IN ONE OF THE NEW 'FORTNITE' LOCATIONS. A SPECIAL EVENT WOULD BE IMMINENT.</div>
+				<div class="nt-item"><span class="racing">comming</span>PLAYERS HAVE FOUND A CLEAR REFERENCE TO 'STRANGER
+					THINGS' IN ONE OF THE NEW 'FORTNITE' LOCATIONS. A SPECIAL EVENT WOULD BE IMMINENT.</div>
 			</div>
 		</div>
 	</div>
@@ -116,7 +120,9 @@
 							<div class="post-content">
 								<h5>James Smith<span>posted an update</span></h5>
 								<div class="post-date">January 17 2019</div>
-								<p>The Super Nintendo has one of the most robust and eclectic libraries in gaming. Every genre is represented with top-notch games. Here are a few classics to get you started. Feel free to recommend more in the comments!</p>
+								<p>The Super Nintendo has one of the most robust and eclectic libraries in gaming. Every genre is
+									represented with top-notch games. Here are a few classics to get you started. Feel free to recommend
+									more in the comments!</p>
 							</div>
 						</div>
 					</li>
@@ -126,7 +132,11 @@
 							<div class="post-content">
 								<h5>Partik Williams<span>posted an update</span></h5>
 								<div class="post-date">April 25, 2019</div>
-								<p>Super Metroid - Super Mario World - Legend of Zelda: Link to the Past - Earthbound - Chrono Trigger - Wild Guns - Illusion of Gaia - Turtles in Time - Contra III - Street Fighter II - Donkey Kong Country - Secret of Mana - Super Mario RPG - Yoshi's Island - Super Ghouls N' Ghosts - Kirby Super Star - Terranigma - Final Fantasy III - Mega Man X - Star Fox - Axelay - Super Castlevania IV - Mega Man 7 - Breath of Fire II - Final Fantasy II.</p>
+								<p>Super Metroid - Super Mario World - Legend of Zelda: Link to the Past - Earthbound - Chrono Trigger -
+									Wild Guns - Illusion of Gaia - Turtles in Time - Contra III - Street Fighter II - Donkey Kong Country
+									- Secret of Mana - Super Mario RPG - Yoshi's Island - Super Ghouls N' Ghosts - Kirby Super Star -
+									Terranigma - Final Fantasy III - Mega Man X - Star Fox - Axelay - Super Castlevania IV - Mega Man 7 -
+									Breath of Fire II - Final Fantasy II.</p>
 								<div class="attachment-file">
 									<img src="public/pictures/attachment.jpg" alt="">
 								</div>
@@ -139,7 +149,10 @@
 							<div class="post-content">
 								<h5>Cris The Man<span>posted an update</span></h5>
 								<div class="post-date">April 30, 2019</div>
-								<p>Unfortunately, repro labels are usually identical to the original, so you might not be able to tell if you've purchased a fake until you receive it and open it. A real cartridge board will have a Nintendo copyright inkstamp dated in the 90s, and will never contain wiring or hastily soldered chips. Here is an informative post on the subject from Earthbound Central with photo comparisons.</p>
+								<p>Unfortunately, repro labels are usually identical to the original, so you might not be able to tell
+									if you've purchased a fake until you receive it and open it. A real cartridge board will have a
+									Nintendo copyright inkstamp dated in the 90s, and will never contain wiring or hastily soldered chips.
+									Here is an informative post on the subject from Earthbound Central with photo comparisons.</p>
 							</div>
 						</div>
 					</li>
@@ -149,7 +162,9 @@
 							<div class="post-content">
 								<h5>James Smith<span>posted an update</span></h5>
 								<div class="post-date">March 9, 2019</div>
-								<p>The Super Nintendo had some pretty cool accessories. By plugging these into the controller ports, gamers were given a variety of fun and different ways to play their games. Two of the most notable are the Super Scope gun controller and the SNES Mouse.</p>
+								<p>The Super Nintendo had some pretty cool accessories. By plugging these into the controller ports,
+									gamers were given a variety of fun and different ways to play their games. Two of the most notable are
+									the Super Scope gun controller and the SNES Mouse.</p>
 							</div>
 						</div>
 					</li>
@@ -159,7 +174,8 @@
 							<div class="post-content">
 								<h5>Cris The Man<span>posted an update</span></h5>
 								<div class="post-date">March 21, 2019</div>
-								<p>You can play all of your original Game Boy cartridges on your SNES by using the Super Game Boy accessory. To play, simply put the cartridge in the SGB, and put the SGB in your SNES.</p>
+								<p>You can play all of your original Game Boy cartridges on your SNES by using the Super Game Boy
+									accessory. To play, simply put the cartridge in the SGB, and put the SGB in your SNES.</p>
 							</div>
 						</div>
 					</li>
@@ -169,7 +185,10 @@
 							<div class="post-content">
 								<h5>James Smith<span>posted an update</span></h5>
 								<div class="post-date">March 31, 2019</div>
-								<p>The only things necessary to play Super Famicom games on a North American SNES console are a pair of pliers and a bit of muscle. There are two plastic tabs on the inside of a SNES that prevent a SFC cart from being inserted into the system. Simply removing these tabs ( will allow you to play a Japanese SFC cartridge!</p>
+								<p>The only things necessary to play Super Famicom games on a North American SNES console are a pair of
+									pliers and a bit of muscle. There are two plastic tabs on the inside of a SNES that prevent a SFC cart
+									from being inserted into the system. Simply removing these tabs ( will allow you to play a Japanese
+									SFC cartridge!</p>
 							</div>
 						</div>
 					</li>
@@ -179,8 +198,15 @@
 							<div class="post-content">
 								<h5>Maria Doe<span>posted an update</span></h5>
 								<div class="post-date">June 1, 2019</div>
-								<p>If you've ever searched for games like Super Castlevania and Contra 3 on eBay, you may have noticed some versions of those games come with black and white instruction booklets. This black and white booklet is generally the calling card of the Majesco re-releases. In the mid-to-late 90s, Majesco reprinted a number of SNES games from publishers such as Konami and Capcom. The games themselves are unchanged but they do tend to go for a little cheaper due to them being re-releases. Their calling cards are the previously mentioned black and white manuals, lower quality, matte cart labels (this is somewhat difficult to pick out), no sticker on the back of the cartridge (in some cases), and the "Assembled in Mexico" text on the carts and on the back of their boxes.
-</p>
+								<p>If you've ever searched for games like Super Castlevania and Contra 3 on eBay, you may have noticed
+									some versions of those games come with black and white instruction booklets. This black and white
+									booklet is generally the calling card of the Majesco re-releases. In the mid-to-late 90s, Majesco
+									reprinted a number of SNES games from publishers such as Konami and Capcom. The games themselves are
+									unchanged but they do tend to go for a little cheaper due to them being re-releases. Their calling
+									cards are the previously mentioned black and white manuals, lower quality, matte cart labels (this is
+									somewhat difficult to pick out), no sticker on the back of the cartridge (in some cases), and the
+									"Assembled in Mexico" text on the carts and on the back of their boxes.
+								</p>
 							</div>
 						</div>
 					</li>
@@ -233,7 +259,8 @@
 								<div class="lb-thumb set-bg" data-setbg="public/pictures/latest-blog/3.jpg"></div>
 								<div class="lb-content">
 									<div class="lb-date">April 4, 2019</div>
-									<p>Varok Colmillosauro is aware that, in order to build a future for the Horde, he must contact whoever led him in the past.</p>
+									<p>Varok Colmillosauro is aware that, in order to build a future for the Horde, he must contact
+										whoever led him in the past.</p>
 									<a href="#" class="lb-author">BLIZZARD</a>
 								</div>
 							</div>
@@ -294,8 +321,8 @@
 				<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 				Copyright &copy;<script>
 					document.write(new Date().getFullYear());
-				</script> All rights reserved | This template is made with by
-				<a href="https://colorlib.com" target="_blank">Colorlib</a>
+				</script> All rights reserved | This template is made with by Colorlib -
+				<a href="./about" target="_blank">About Us</a>
 				<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 			</p>
 		</div>
@@ -309,5 +336,6 @@
 	<script src="public/layout/scripts/owl.carousel.min.js"></script>
 	<script src="public/layout/scripts/jquery.marquee.min.js"></script>
 	<script src="public/layout/scripts/main.js"></script>
-    </body>
+</body>
+
 </html>

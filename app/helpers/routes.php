@@ -5,5 +5,6 @@
     route('GET', "/community", "community");
     route('GET', "/contact", "contact");
     route('GET', "/review", "review");
+    route('GET', "/about", "about");
 
     notFound();

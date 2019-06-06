@@ -110,7 +110,7 @@
 									<h5>Metro Last Light Redux</h5>
 									<p>Under the ruins of a post-apocalyptic Moscow, in the underground tunnels, the survivors of humanity
 										are besieged by deadly threats from the outside ... and the inside.</p>
-									<a href="https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/" class="comment">3 Comments</a>
+									<a href="https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/" class="comment" target='_blank'>Read More</a>
 									<div class="rgi-extra">
 										<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
 										<div class="rgi-heart"><img src="public/pictures/icons/heart.png" alt=""></div>
@@ -127,7 +127,7 @@
 									<h5>Beyond Two Souls</h5>
 									<p>A unique psychological thriller of action that features the performances of Hollywood stars Ellen
 										PAGE and Willem DAFOE. </p>
-									<a href="https://www.epicgames.com/store/es-MX/product/beyond-two-souls/home" class="comment">12 Comments</a>
+									<a href="https://www.epicgames.com/store/es-MX/product/beyond-two-souls/home" class="comment" target='_blank'>Read More</a>
 									<div class="rgi-extra">
 										<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
 										<div class="rgi-heart"><img src="public/pictures/icons/heart.png" alt=""></div>
@@ -144,7 +144,7 @@
 									<h5>World War Z</h5>
 									<p>World War Z is an exciting cooperative (four player) cooperative shooting game in the third person,
 										with massive hordes of zombies devouring their living prey without mercy. </p>
-									<a href="https://wwzgame.com/es/" class="comment">23 Comments</a>
+									<a href="https://wwzgame.com/es/" class="comment" target='_blank'>Read More</a>
 									<div class="rgi-extra">
 										<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
 										<div class="rgi-heart"><img src="public/pictures/icons/heart.png" alt=""></div>
@@ -162,7 +162,7 @@
 									<p>WoW , literally in Spanish World of Warcraft ) is a massively multiplayer online role-playing video
 										game developed by Blizzard Entertainment . It is the fourth released game established in the fantasy
 										universe of Warcraft , which was first introduced by Warcraft: Orcs & Humans in 1994.</p>
-									<a href="https://worldofwarcraft.com/" class="comment">789 Comments</a>
+									<a href="https://worldofwarcraft.com/" class="comment" target='_blank'>Read More</a>
 									<div class="rgi-extra">
 										<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
 										<div class="rgi-heart"><img src="public/pictures/icons/heart.png" alt=""></div>
@@ -179,7 +179,7 @@
 									<h5>Overwatch Halloween</h5>
 									<p>Over the next three weeks, we're going to celebrate the most sinister time of the year with a
 										spooky Overwatch: Scary Halloween event. </p>
-									<a href="https://playoverwatch.com/es-es/" class="comment">1225 Comments</a>
+									<a href="https://playoverwatch.com/es-es/" class="comment" target='_blank'>Read More</a>
 									<div class="rgi-extra">
 										<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
 										<div class="rgi-heart"><img src="public/pictures/icons/heart.png" alt=""></div>
@@ -195,7 +195,7 @@
 								<div class="rgi-content">
 									<h5>Grand Theft Auto V </h5>
 									<p>New car available here. </p>
-									<a href="https://www.rockstargames.com/V/restricted-content/agegate/form?redirect=https%3A%2F%2Fwww.rockstargames.com%2FV%2F&options=&locale=en_us" class="comment">745 Comments</a>
+									<a href="https://www.rockstargames.com/V/restricted-content/agegate/form?redirect=https%3A%2F%2Fwww.rockstargames.com%2FV%2F&options=&locale=en_us" class="comment" target='_blank'>Read More</a>
 									<div class="rgi-extra">
 										<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
 										<div class="rgi-heart"><img src="public/pictures/icons/heart.png" alt=""></div>
@@ -213,7 +213,7 @@
 									<p>Patch # 29 is now available and comes with the 2nd rebalanced Vikendi, new options in the Custom
 										Games and a new Tactical Map Marker system to communicate with your Duo or Squad partners. In the
 										following video you can see the new features that have been incorporated.</p>
-									<a href="https://www.pubg.com/es/" class="comment">478 Comments</a>
+									<a href="https://www.pubg.com/es/" class="comment" target='_blank'>Read More</a>
 									<div class="rgi-extra">
 										<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
 										<div class="rgi-heart"><img src="public/pictures/icons/heart.png" alt=""></div>
@@ -230,7 +230,7 @@
 									<h5>Anthem</h5>
 									<p>This is only the beginning of Anthem. The world will continue to evolve and present new challenges
 										as your arsenal of halberds grows and you unleash your power.</p>
-									<a href="https://www.ea.com/es-es/games/anthem" class="comment">325 Comments</a>
+									<a href="https://www.ea.com/es-es/games/anthem" class="comment" target='_blank'>Read More</a>
 									<div class="rgi-extra">
 										<div class="rgi-star"><img src="public/pictures/icons/star.png" alt=""></div>
 										<div class="rgi-heart"><img src="public/pictures/icons/heart.png" alt=""></div>

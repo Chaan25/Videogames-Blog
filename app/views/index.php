@@ -54,7 +54,7 @@
 				<ul>
 					<li><a href="./">Home</a></li>
 					<li><a href="./review">Reviews</a></li>
-					<li><a href="./categories">Cateories</a></li>
+					<li><a href="./categories">Categories</a></li>
 					<li><a href="./community">Forums</a></li>
 				</ul>
 			</nav>
